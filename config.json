@@ -1,8 +1,5 @@
 {
-  "dl": "https://localhost:8080/api/v1/crates/{crate}/{version}/download",
-  "api": null,
-  "allowed-registries": [
-    "https://github.com/rust-lang/crates.io-index",
-    "https://github.com/nylar/private-registry"
-  ]
+  "dl": "https://localhost:3030/api/v1/crates/{crate}/{version}/download",
+  "api": "https://localhost:3030",
+  "allowed-registries": []
 }
