@@ -1,5 +1,5 @@
 {
-  "dl": "https://localhost:3030/api/v1/crates/{crate}/{version}/download",
-  "api": "https://localhost:3030",
+  "dl": "http://localhost:3030/api/v1/crates/{crate}/{version}/download",
+  "api": "http://localhost:3030",
   "allowed-registries": []
 }
