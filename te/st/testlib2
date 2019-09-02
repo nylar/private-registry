@@ -1,0 +1,1 @@
+{"name":"testlib2","vers":"0.1.0","deps":[{"name":"testlib","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"7e90fb5adcb126af6ff810c3174e7729d49b8a7ab0b3b8a47f0d45f91fc1d962","features":{},"yanked":false,"links":null}
